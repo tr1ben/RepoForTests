@@ -1,6 +1,0 @@
-servlets\UserServlet.class
-repository\UserRepo.class
-servlets\LoginServlet.class
-listener\UserWebListener.class
-model\User.class
-servlets\RegistrationServlet.class
